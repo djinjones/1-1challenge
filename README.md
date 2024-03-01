@@ -26,7 +26,7 @@ N/A
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+[Search engine optimization by Horiseon](https://djinjones.github.io/1-1challenge/)
 
 ## Authors
 
