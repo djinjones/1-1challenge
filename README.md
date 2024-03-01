@@ -30,7 +30,7 @@ N/A
 
 ## Authors
 
-* **Daniel Jones** - *Initial work* - [Djinjones](https://github.com/Djinjones)
+* **Daniel Jones** - [Djinjones](https://github.com/Djinjones)
 
 ## License
 
